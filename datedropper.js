@@ -1034,7 +1034,7 @@
 				}
 			},
 			'ko' : {
-				name : '조선말',
+				name : '한국어',
 				gregorian : true,
 				months : {
 					short: [
